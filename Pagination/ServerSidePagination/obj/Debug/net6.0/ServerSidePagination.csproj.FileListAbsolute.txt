@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\bin\Debug\net6.0\ServerSidePagination.deps.json
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\bin\Debug\net6.0\ServerSidePagination.dll
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\bin\Debug\net6.0\ServerSidePagination.pdb
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\obj\Debug\net6.0\ServerSidePagination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\obj\Debug\net6.0\ServerSidePagination.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\obj\Debug\net6.0\ServerSidePagination.AssemblyInfo.cs
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\obj\Debug\net6.0\ServerSidePagination.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\obj\Debug\net6.0\ServerSidePagination.dll
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\obj\Debug\net6.0\refint\ServerSidePagination.dll
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\obj\Debug\net6.0\ServerSidePagination.pdb
+C:\Users\dell\Desktop\AngularBackend\ServerSidePagination\obj\Debug\net6.0\ref\ServerSidePagination.dll
